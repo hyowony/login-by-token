@@ -1,0 +1,22 @@
+{
+  "name": "login-by-token",
+  "version": "1.0.0",
+  "description": "스파르타 코딩클럽 login 토큰 활용 실습",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyowony/login-by-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyowony/login-by-token/issues"
+  },
+  "homepage": "https://github.com/hyowony/login-by-token#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
